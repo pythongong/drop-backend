@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-edu" />
+        <module name="coommon-utils" />
+        <module name="service-base" />
+        <module name="service-oss" />
+        <module name="service-cms" />
+        <module name="service-vod" />
+        <module name="service-acl" />
+        <module name="service-statistics" />
+        <module name="service-user" />
+        <module name="utils" />
+        <module name="spring-security" />
+        <module name="canal" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-utils" target="1.8" />
+      <module name="coommon-utils" target="1.8" />
+      <module name="service-login" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="canal" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="common-utils" options="-parameters" />
+      <module name="coommon-utils" options="-parameters" />
+      <module name="drop-backend" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="infrastructure" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="service-acl" options="-parameters" />
+      <module name="service-base" options="-parameters" />
+      <module name="service-cms" options="-parameters" />
+      <module name="service-edu" options="-parameters" />
+      <module name="service-login" options="-parameters" />
+      <module name="service-oss" options="-parameters" />
+      <module name="service-statistics" options="-parameters" />
+      <module name="service-user" options="-parameters" />
+      <module name="service-vod" options="-parameters" />
+      <module name="spring-security" options="-parameters" />
+      <module name="utils" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+server:
+  port: 8093
+
+
+spring:
+  application:
+    name: service-cms
+  profiles:
+    active: dev

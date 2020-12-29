@@ -1,0 +1,19 @@
+server:
+  port: 8091
+spring:
+  application:
+    name: service-oss
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+aliyun:
+  oss:
+    file:
+      endpoint: oss-cn-guangzhou.aliyuncs.com
+      keyid: LTAI4GG5cXZ7f4pxLkTCPoaq
+      keysecret: C1Bvt5smZm0w5yYATeecyrXxBynKCq
+      bucketname: drop-files

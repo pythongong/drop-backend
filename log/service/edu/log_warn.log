@@ -1,0 +1,41 @@
+2020-12-28 19:56:56.650 [main] WARN  o.s.c.a.nacos.client.NacosPropertySourceLocator - no instance of config service found, can't load config from nacos
+2020-12-28 19:57:00.243 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-28 19:57:00.247 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-28 20:51:10.561 [main] WARN  o.s.c.a.nacos.client.NacosPropertySourceLocator - no instance of config service found, can't load config from nacos
+2020-12-28 20:51:14.560 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-28 20:51:14.564 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-28 22:36:04.663 [main] WARN  o.s.c.a.nacos.client.NacosPropertySourceLocator - no instance of config service found, can't load config from nacos
+2020-12-28 22:36:08.254 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-28 22:36:08.254 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-28 23:26:07.144 [main] WARN  o.s.c.a.nacos.client.NacosPropertySourceLocator - no instance of config service found, can't load config from nacos
+2020-12-28 23:26:10.842 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-28 23:26:10.846 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-28 23:28:04.274 [main] WARN  o.s.c.a.nacos.client.NacosPropertySourceLocator - no instance of config service found, can't load config from nacos
+2020-12-28 23:28:07.992 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-28 23:28:07.997 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-29 10:55:32.891 [main] WARN  o.s.c.a.nacos.client.NacosPropertySourceLocator - no instance of config service found, can't load config from nacos
+2020-12-29 10:55:36.664 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-29 10:55:36.667 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-29 11:11:53.198 [main] WARN  o.s.c.a.nacos.client.NacosPropertySourceLocator - no instance of config service found, can't load config from nacos
+2020-12-29 11:11:56.947 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-29 11:11:56.951 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-29 11:25:37.881 [lettuce-nioEventLoop-4-2] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:25:47.981 [lettuce-nioEventLoop-4-3] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:25:58.076 [lettuce-nioEventLoop-4-4] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:26:08.180 [lettuce-nioEventLoop-4-5] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:26:18.271 [lettuce-nioEventLoop-4-6] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:26:28.388 [lettuce-nioEventLoop-4-7] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:26:38.480 [lettuce-nioEventLoop-4-8] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:26:48.688 [lettuce-nioEventLoop-4-1] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:26:58.968 [lettuce-nioEventLoop-4-2] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:27:09.569 [lettuce-nioEventLoop-4-3] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:27:20.670 [lettuce-nioEventLoop-4-4] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:27:32.767 [lettuce-nioEventLoop-4-5] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:27:46.868 [lettuce-nioEventLoop-4-6] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:28:05.080 [lettuce-nioEventLoop-4-7] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:28:31.475 [lettuce-nioEventLoop-4-8] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:29:11.580 [lettuce-nioEventLoop-4-1] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:29:51.673 [lettuce-nioEventLoop-4-2] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:30:31.768 [lettuce-nioEventLoop-4-3] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:31:11.877 [lettuce-nioEventLoop-4-4] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
+2020-12-29 11:31:51.972 [lettuce-nioEventLoop-4-5] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.137.128:6379]: connection timed out: /192.168.137.128:6379
